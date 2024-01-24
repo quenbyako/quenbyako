@@ -16,12 +16,14 @@
 
 ## <p align="center">Projects</p>
 
-- Telegram and TON projects
+- Telegram and TON Projects
   - [🦋 MTProto 2.0][mtproto] — Full-native go implementation of Telegram API
   - [⚡️ TypeLang][tl] — Native golang TL parser for TON and Telegram
-- Testing and Linting tools
+- Developer Tools
+  - [🥤 Fresh][fresh] — Toolset to work with OpenCLI
+  - [🏗️ SQLMatic][sqlmatic] — Alternative for ORMs: Database as code, code generation, unit testing, and much more!
   - [🔪 CoverCut][covercut] — Remove false-negative cover reports!
-- Useful libraries
+- Useful Libraries
   - [🖇️ gonp][gonp] — Diff library to work with any types, not only strings!
   - [🪢 ext][ext] — Extensions for standard library including lots of useful stuff
 
@@ -48,6 +50,8 @@ Created with love 💜 and magic 🦄 </br> Richard Cooper, 1999-TID
 
 [mtproto]:     https://github.com/xelaj/mtproto
 [tl]:          https://github.com/xelaj/tl
+[fresh]:       https://github.com/xelaj/fresh
+[sqlmatic]:    https://github.com/xelaj/sqlmatic
 [gonp]:        https://github.com/quenbyako/gonp
 [ext]:         https://github.com/quenbyako/ext
 [covercut]:    https://github.com/quenbyako/covercut

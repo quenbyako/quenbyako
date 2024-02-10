@@ -54,6 +54,6 @@ Created with love 💜 and magic 🦄 </br> Richard Cooper, 1999-TID
 [ext]:          https://github.com/quenbyako/ext
 [gonp]:         https://github.com/quenbyako/gonp
 [sqltest]:      https://github.com/quenbyako/sqltest
-[asyncapi-nsq]: https://github.com/quenbyako/sqltest
+[asyncapi-nsq]: https://github.com/quenbyako/asyncapi-nsq
 
 [asyncapi-codegen]: github.com/lerenn/asyncapi-codegen

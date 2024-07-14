@@ -27,7 +27,7 @@
   - [🖇️ gonp][gonp] — Diff library to work with any types, not only strings!
   - [🪢 ext][ext] — Extensions for standard library including lots of useful stuff
   - [🧪 sqltest][sqltest] — Useful library to create integration tests for SQL databases
-  - [📨 asyncapi-nsq][asyncapi-nsq] — NSQ provider for [AsyncAPI codegent tool][asyncapi-codegen], useful to make boilerplates!
+  - [📨 asyncapi-nsq][asyncapi-nsq] — NSQ provider for [AsyncAPI codegen tool][asyncapi-codegen], useful to make boilerplates!
 
 
 ## <p align="center">🤩 Awesome things i found</p>
@@ -65,4 +65,4 @@ Created with love 💜 and magic 🦄 </br> Richard Cooper, 1999-TID
 [asyncapi-nsq]: https://github.com/quenbyako/asyncapi-nsq
 
 <!-- Any external links -->
-[asyncapi-codegen]: github.com/lerenn/asyncapi-codegen
+[asyncapi-codegen]: https://github.com/lerenn/asyncapi-codegen

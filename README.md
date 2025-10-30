@@ -28,7 +28,9 @@
   - [🪢 ext][ext] — Extensions for standard library including lots of useful stuff
   - [🧪 sqltest][sqltest] — Useful library to create integration tests for SQL databases
   - [📨 asyncapi-nsq][asyncapi-nsq] — NSQ provider for [AsyncAPI codegen tool][asyncapi-codegen], useful to make boilerplates!
-
+- Great templates to start your Golang project
+  - [☄️ core][core] — Set of interfaces for golang projects
+  - [⚓️ layout-service][layout-service] — Complete bootstrap with all guidance for your next perfect golang app!
 
 ## <p align="center">🤩 Awesome things i found</p>
 
@@ -54,15 +56,17 @@ Created with love 💜 and magic 🦄 </br> Richard Cooper, 1999-TID
 [awesome]:      ./awesome.md
 
 <!-- My links and links to personal projects -->
-[fresh]:        https://github.com/xelaj/fresh
-[mtproto]:      https://github.com/xelaj/mtproto
-[sqlmatic]:     https://github.com/xelaj/sqlmatic
-[tl]:           https://github.com/xelaj/tl
-[covercut]:     https://github.com/quenbyako/covercut
-[ext]:          https://github.com/quenbyako/ext
-[gonp]:         https://github.com/quenbyako/gonp
-[sqltest]:      https://github.com/quenbyako/sqltest
-[asyncapi-nsq]: https://github.com/quenbyako/asyncapi-nsq
+[fresh]:          https://github.com/xelaj/fresh
+[mtproto]:        https://github.com/xelaj/mtproto
+[sqlmatic]:       https://github.com/xelaj/sqlmatic
+[tl]:             https://github.com/xelaj/tl
+[covercut]:       https://github.com/quenbyako/covercut
+[ext]:            https://github.com/quenbyako/ext
+[gonp]:           https://github.com/quenbyako/gonp
+[sqltest]:        https://github.com/quenbyako/sqltest
+[asyncapi-nsq]:   https://github.com/quenbyako/asyncapi-nsq
+[core]:           https://github.com/quenbyako/core
+[layout-service]: https://github.com/quenbyako/layout-service
 
 <!-- Any external links -->
 [asyncapi-codegen]: https://github.com/lerenn/asyncapi-codegen

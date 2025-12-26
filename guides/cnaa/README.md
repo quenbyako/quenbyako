@@ -1,5 +1,6 @@
 # Cloud Native Application Architecture
 
+<!--
 [![CC BY-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 > [!NOTE]
@@ -7,6 +8,7 @@
 
 [cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
+-->
 
 ## Introduction
 

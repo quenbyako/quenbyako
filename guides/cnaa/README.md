@@ -10,6 +10,26 @@
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
 -->
 
+- [Factor I. Single Codebase](./factor_1.md)
+- [Factor II. Dependencies](./factor_2.md)
+- [Factor III. Configuration](./factor_3.md)
+- [Factor IV. Dependencies Are Resources](./factor_4.md)
+- [Factor V. Code Lifecycle](./factor_5.md)
+- [Factor VI. Stateless App](./factor_6.md)
+- [Factor VII. API Exposing](./factor_7.md)
+- [Factor VIII. UNIX Philosophy](./factor_8.md)
+- [Factor IX. Runtime Utilization](./factor_9.md)
+- [Factor X. Identical Environments](./factor_10.md)
+- [Factor XI. Logging](./factor_11.md)
+- [Factor XII. Management Separation](./factor_12.md)
+- [Factor XIII. Observability](./factor_13.md)
+- [Factor XIV. Resource Limits (Predictability)](./factor_14.md)
+- [Factor XV. Backward Compatibility](./factor_15.md)
+- [Factor XVI. Minimal Access Requirements](./factor_16.md)
+- [Factor XVII. Event Auditing](./factor_17.md)
+- [Factor XVIII. Zero Trust](./factor_18.md)
+- [Factor XIX. Resource Estimation](./factor_19.md)
+
 ## Introduction
 
 Developing good, user-friendly applications in the cloud isn't the same thing as writing mods or banging out HTML landing pages.

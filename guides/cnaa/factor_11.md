@@ -1,18 +1,6 @@
 # Factor XI. Logging
 
-- [Factor XI. Logging](#factor-xi-logging)
-  - [Log details](#log-details)
-    - [Minimal set of fields](#minimal-set-of-fields)
-    - [Context data](#context-data)
-  - [Logging levels](#logging-levels)
-    - [`DEBUG`](#debug)
-    - [`INFO`](#info)
-    - [`WARN`](#warn)
-    - [`ERROR`](#error)
-    - [`FATAL`](#fatal)
-  - [Pretty printing](#pretty-printing)
-  - [Tooling](#tooling)
-  - [Checklist](#checklist)
+[![CC BY-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 > [!IMPORTANT] 
 >

@@ -1,10 +1,5 @@
 # Factor XI. Logging
 
-[![CC BY-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
-
-[cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/
-[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
-
 > [!IMPORTANT] 
 >
 > **Principle:** Logging is first and foremost about **events**, not just text strings. Logs must be structured, immutable, and timestamped. They must contain sufficient context to understand the event that occurred, but without being redundant.
